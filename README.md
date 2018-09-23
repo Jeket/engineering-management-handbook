@@ -18,3 +18,5 @@
 ## 1:1 Meetings
 * [Ben Horowitz: One On One](https://a16z.com/2012/08/30/one-on-one/)
 * [How to Have Effective 1:1s](https://www.radicalcandor.com/blog/effective-one-on-ones/)
+* [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
+* [Awkward 1:1s: The Art of Getting Honest Feedback](https://medium.com/@mrabkin/awkward-1-1s-the-art-of-getting-honest-feedback-2843078b2880)
