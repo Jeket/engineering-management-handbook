@@ -6,6 +6,7 @@
 
 ## Hiring
 * [Generalists and specialists: thoughts on hiring](https://humanwhocodes.com/blog/2014/07/15/generalists-and-specialists-thoughts-on-hiring/)
+* [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
 * [Intercom: How we hire engineers, part 1: our screener](https://www.intercom.com/blog/how-we-hire-engineers-part-1/)
 * [Intercom: How we hire engineers, part 2: culture contribution](https://www.intercom.com/blog/how-we-hire-engineers-part-2-culture-contribution/)
 * [Who](https://www.amazon.co.uk/Who-Geoff-Smart/dp/0345504194)
