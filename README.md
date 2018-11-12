@@ -4,9 +4,6 @@
 * [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.co.uk/Hard-Thing-About-Things-Building/dp/0062273205)
 
-## Transition from Engineering to Management
-* [](https://ajahne.github.io/blog/leadership/2018/10/30/letting-go.html)
-
 ## Hiring
 * [Generalists and specialists: thoughts on hiring](https://humanwhocodes.com/blog/2014/07/15/generalists-and-specialists-thoughts-on-hiring/)
 * [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
