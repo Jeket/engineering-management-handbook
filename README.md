@@ -1,15 +1,17 @@
 # Engineering Management Handbook
 
+*Legend:* 📕 Book | 🔩 Tool | 📐 Framwork
+
 ## The Beginning
-* [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
-* [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.co.uk/Hard-Thing-About-Things-Building/dp/0062273205)
+* [📕 The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
+* [📕 The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.co.uk/Hard-Thing-About-Things-Building/dp/0062273205)
 
 ## Hiring
 * [Generalists and specialists: thoughts on hiring](https://humanwhocodes.com/blog/2014/07/15/generalists-and-specialists-thoughts-on-hiring/)
 * [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
 * [Intercom: How we hire engineers, part 1: our screener](https://www.intercom.com/blog/how-we-hire-engineers-part-1/)
 * [Intercom: How we hire engineers, part 2: culture contribution](https://www.intercom.com/blog/how-we-hire-engineers-part-2-culture-contribution/)
-* [Who](https://www.amazon.co.uk/Who-Geoff-Smart/dp/0345504194)
+* [📕 Who](https://www.amazon.co.uk/Who-Geoff-Smart/dp/0345504194)
 
 ## Goal Setting
 * [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7)
@@ -30,14 +32,12 @@
 * [A Better Way to Deliver Bad News](https://hbr.org/2002/09/a-better-way-to-deliver-bad-news)
 
 ## Growth Frameworks
-* [Medium’s Professional Growth Framework](https://medium.com/s/engineering-growth-framework)
-* [Buffer's Engineering Career Paths Framework](https://open.buffer.com/engineering-career-framework)
-* [Rent the Runway's Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
-* [Patreon's Engineering Levels](https://levels.patreon.com/)
-* [Khan Academy Engineering Career Development](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls)
-
-**Tools**
-* [ProgressionPack](https://progressionpack.com/)
+* [📐 Medium’s Professional Growth Framework](https://medium.com/s/engineering-growth-framework)
+* [📐 Buffer's Engineering Career Paths Framework](https://open.buffer.com/engineering-career-framework)
+* [📐 Rent the Runway's Engineering Ladder](http://dresscode.renttherunway.com/blog/ladder)
+* [📐 Patreon's Engineering Levels](https://levels.patreon.com/)
+* [📐 Khan Academy Engineering Career Development](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls)
+* [🔩 ProgressionPack](https://progressionpack.com/)
 
 ## Performance Management
 * [Stripe’s Will Larson on Designing a Performance Management System from Scratch](https://blog.gitprime.com/designing-performance-management-systems/)
