@@ -1,6 +1,6 @@
 # Engineering Management Handbook
 
-*Legend:* 📕 Book | 🔩 Tool | 📐 Framwork
+*Legend:* 📕 Book | 🔩 Tool | 📐 FrameFix typowork
 
 ## The Beginning
 * [📕 The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
