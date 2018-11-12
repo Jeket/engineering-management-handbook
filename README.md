@@ -29,5 +29,8 @@
 * [Patreon's Engineering Levels](https://levels.patreon.com/)
 * [Khan Academy Engineering Career Development](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls)
 
+## Performance Management
+* [https://blog.gitprime.com/designing-performance-management-systems/](Stripe’s Will Larson on Designing a Performance Management System from Scratch)
+
 **Tools**
 * [ProgressionPack](https://progressionpack.com/)
