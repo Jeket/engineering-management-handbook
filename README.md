@@ -30,7 +30,7 @@
 * [Khan Academy Engineering Career Development](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls)
 
 ## Performance Management
-* [https://blog.gitprime.com/designing-performance-management-systems/](Stripe’s Will Larson on Designing a Performance Management System from Scratch)
+* [Stripe’s Will Larson on Designing a Performance Management System from Scratch](https://blog.gitprime.com/designing-performance-management-systems/)
 
 **Tools**
 * [ProgressionPack](https://progressionpack.com/)
