@@ -18,6 +18,11 @@
 * [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs/)
 * [About predictability and clearly defining team goals](http://ourbit.norbertoherz.com//2016/11/01/about-predictability-and-team-goals/)
 
+## Coaching
+* [📕
+The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever Paperback – February 29, 2016
+](https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+
 ## 1:1 Meetings
 * [Ben Horowitz: One On One](https://a16z.com/2012/08/30/one-on-one/)
 * [How to Have Effective 1:1s](https://www.radicalcandor.com/blog/effective-one-on-ones/)
