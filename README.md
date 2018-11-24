@@ -20,7 +20,7 @@
 
 ## Coaching
 * [📕
-The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever Paperback – February 29, 2016
+The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
 ](https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ## 1:1 Meetings
